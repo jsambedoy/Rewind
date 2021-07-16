@@ -1,7 +1,7 @@
 :root {
     --primary-color: rgb(100, 0, 255);
     --secondary-color: rgb(0, 255, 55);
-    --dark-color: hsl(240, 64%, 27%);
+    --dark-color: rgb(25, 25, 113);
     --white-color: whitesmoke;
 }
 
