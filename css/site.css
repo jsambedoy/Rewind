@@ -5,6 +5,16 @@
     --white-color: whitesmoke;
 }
 
+* {
+    font-family: 'Source Sans Pro', sans-serif;
+}
+
+.logoFont {
+    font-family: 'Source Sans Pro', sans-serif;
+    font-weight: 600;
+    font-style: italic;
+}
+
 body {
     color: var(--dark-color);
 }
